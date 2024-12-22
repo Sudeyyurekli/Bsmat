@@ -1,0 +1,2 @@
+{"event_type": "created", "src_path": "/home/ubuntu/bsm/test/yeni_dosya.txt", "time": "2024-12-22 15:03:39"}
+{"event_type": "deleted", "src_path": "/home/ubuntu/bsm/test/yeni_dosya.txt", "time": "2024-12-22 15:04:14"}
